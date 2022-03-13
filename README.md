@@ -77,24 +77,33 @@ $ python delete_cluster.py
 ## Screenshots of what the final tables look like
    
 ### Artists Table
+  
+  ![artists_table](https://user-images.githubusercontent.com/96186386/158043854-70540ff9-26e9-4394-b18e-bfa5d1fa9d11.png)
 
-
+  
 ### Songplays Table
 
-   
+   ![songplays_table_part1](https://user-images.githubusercontent.com/96186386/158043898-05296981-4789-4484-b32d-3f70a5e922c5.png)
+   ![songplays_table_part2](https://user-images.githubusercontent.com/96186386/158043899-e1271d01-a7a8-451d-b3dc-2712b1884f3e.png)
+
+  
 ### Songs Table
+  
+  ![songs_table](https://user-images.githubusercontent.com/96186386/158043886-3c7fad53-bff7-4b18-a68e-cc290afc3d18.png)
 
 ### Time Table
-
+  
+![time_table](https://user-images.githubusercontent.com/96186386/158043881-6133326b-aca8-40a1-b465-e41e198cd4f4.png)
 
 ### Users Table
 
-
+![users_table](https://user-images.githubusercontent.com/96186386/158043878-1bc5c3a2-53e5-4b9d-a583-24610223ad0c.png)
+  
 ### Built With
    
-Python and SQL
-AWS Redshift
+- Python and SQL
+- AWS Redshift
    
 ## Authors
    
-Jonathan Kamau - Github Profile
+Suvin Kumar - https://github.com/suvin-kumar
