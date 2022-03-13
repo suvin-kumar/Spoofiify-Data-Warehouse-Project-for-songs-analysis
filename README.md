@@ -1,4 +1,4 @@
-# Spoofiify-Data-Warehouse-Project-for-songs-analysis
+# Spoofify-Data-Warehouse-Project-for-songs-analysis
 
 The purpose of this project is to build an ETL pipeline that will be able to extract song data from an S3 bucket and transform that data to make it suitable for analysis. This data can be used with business intelligence and visualization apps that will help the analytics team to better understand what songs are commonly listened to on the app.
 
