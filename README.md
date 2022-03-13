@@ -47,32 +47,34 @@ In order to have a copy of the project up and running locally, you will need to 
 
 - Create a virtualenv that will be your development environment, i.e:
 
-$ virtualenv sparkify-project
-$ source sparkify-project/bin/activate
+  $ virtualenv sparkify-project
+  $ source sparkify-project/bin/activate
    
 - Install the following packages in your virtual environment:
 
    -configparser
+  
    -boto3
+  
    -psycopg2
    
 Alternatively you can install the requirements in the requirements.txt that's in this project by running the command:
 
-$ pip install -r requirements.txt
+ $ pip install -r requirements.txt
    
 ### Terminal commands
    
 To execute the code that creates the cluster, creates and drops the database tables, run the following command on the terminal:
 
-$ python create_tables.py
+ $ python create_tables.py
    
 After running the above command, the next step is to execute the ETL pipeline which is done by running:
 
-$ python etl.py
+ $ python etl.py
    
 Once done with the cluster, you can delete it by running the following:
 
-$ python delete_cluster.py
+ $ python delete_cluster.py
    
 ## Screenshots of what the final tables look like
    
